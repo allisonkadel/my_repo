@@ -3,3 +3,7 @@ def first_file
 end
 
 first_file
+
+puts 'made some changes'
+
+puts 'made some different changes'
