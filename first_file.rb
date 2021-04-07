@@ -5,3 +5,5 @@ end
 first_file
 
 puts 'made some changes'
+
+puts 'made some different changes'
